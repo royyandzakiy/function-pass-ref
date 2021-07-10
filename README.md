@@ -4,4 +4,4 @@ This example shows how functions can be passed by reference to dynamically be ca
 
 ### To Read:
 - pass variable by reference: https://www.tutorialspoint.com/cprogramming/c_function_call_by_reference.htm
--pass function by reference: https://stackoverflow.com/questions/9410/how-do-you-pass-a-function-as-a-parameter-in-c
+- pass function by reference: https://stackoverflow.com/questions/9410/how-do-you-pass-a-function-as-a-parameter-in-c
