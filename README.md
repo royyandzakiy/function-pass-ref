@@ -14,5 +14,6 @@ After swap, value of b : 110
 ```
 
 ### To Read:
-- pass variable by reference: https://www.tutorialspoint.com/cprogramming/c_function_call_by_reference.htm
-- pass function by reference: https://stackoverflow.com/questions/9410/how-do-you-pass-a-function-as-a-parameter-in-c
+- [pass variable by reference (tutorialspoint)](https://www.tutorialspoint.com/cprogramming/c_function_call_by_reference.htm)
+- [pass function by reference (stackoverflow)](https://stackoverflow.com/questions/9410/how-do-you-pass-a-function-as-a-parameter-in-c)
+- [Function Pointer in C (Geeks for Geeks)](https://www.geeksforgeeks.org/function-pointer-in-c/)
